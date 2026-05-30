@@ -1,0 +1,8 @@
+body { font-family: 'Segoe UI', sans-serif; margin: 0; background-color: #f0f2f5; }
+header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 60px 20px; text-align: center; }
+.container { max-width: 800px; margin: -30px auto 20px; padding: 20px; }
+section { background: white; padding: 30px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.1); margin-bottom: 20px; }
+h2 { color: #764ba2; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+.project-card { border: 1px solid #ddd; padding: 20px; border-radius: 10px; margin-top: 15px; }
+button { background: #08f376; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; }
+button:hover { background: #5a377d; }
